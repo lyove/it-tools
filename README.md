@@ -30,12 +30,6 @@ docker run -d --name it-tools --restart unless-stopped -p 8080:80 lyove/it-tools
 docker run -d --name it-tools --restart unless-stopped -p 8080:80 ghcr.io/lyove/it-tools:latest
 ```
 
-**Other solutions:**
-
-- [Cloudron](https://www.cloudron.io/store/tech.ittools.cloudron.html)
-- [Tipi](https://www.runtipi.io/docs/apps-available)
-- [Unraid](https://unraid.net/community/apps?q=it-tools)
-
 ## Contribute
 
 ### Recommended IDE Setup
