@@ -182,6 +182,7 @@ const tools = computed<ToolCategory[]>(() => [
   display: block;
   left: 0;
   width: 100%;
+  background-color: #fff;
   z-index: 10;
   overflow: hidden;
 
@@ -212,6 +213,14 @@ const tools = computed<ToolCategory[]>(() => [
 
     .subtitle {
       font-size: 16px;
+    }
+  }
+}
+.dark .hero-wrapper {
+  background-color: #232323;
+  .text-wrapper {
+    .divider {
+      background-color: v-bind('themeVars.primaryColor');
     }
   }
 }
