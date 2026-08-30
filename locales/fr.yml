@@ -34,7 +34,7 @@ about:
 
     ## Technologies
 
-    IT Tools est fait en Vue.js (Vue 3) avec la bibliothèque de composants Naive UI et est hébergé et déployé en continu par Vercel. Des bibliothèques open-source tierces sont utilisées dans certains outils, vous pouvez trouver la liste complète dans le fichier [package.json](https://github.com/Lyove/it-tools/blob/main/package.json) du dépôt.
+    IT Tools est fait en Vue.js (Vue 3) avec la bibliothèque de composants Naive UI et est hébergé et déployé en continu par Vercel. Des bibliothèques open-source tierces sont utilisées dans certains outils, vous pouvez trouver la liste complète dans le fichier [package.json](https://github.com/Lyove/it-tools/blob/master/package.json) du dépôt.
 
     ## Vous avez trouvé un bug ? Un outil manque ?
 

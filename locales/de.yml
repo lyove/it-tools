@@ -54,7 +54,7 @@ about:
     erstellt und wird von Vercel gehostet und kontinuierlich bereitgestellt. In
     einigen Tools werden Drittanbieter-Open-Source-Bibliotheken verwendet. Du
     findest die vollständige Liste in der
-    [package.json](https://github.com/lyove/it-tools/blob/main/package.json)-Datei
+    [package.json](https://github.com/lyove/it-tools/blob/master/package.json)-Datei
     des Repositorys.
 
     ## Einen Fehler gefunden? Ein Tool fehlt?
